@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.jhdq200.cn/sitemap.xml
